@@ -50,7 +50,7 @@ const Signup = () => {
           <Text textAlign={'right'}>
             Already Signed Up?{' '}
             <Button variant={'link'} colorScheme={'purple'}>
-              <Link to={'/login'}>Login In</Link>
+              <Link to={'/login'}>Log In</Link>
             </Button>
           </Text>
         </VStack>
